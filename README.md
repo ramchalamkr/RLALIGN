@@ -1,2 +1,2 @@
 # RLALIGN
-##Exploring Reinforcement Learning techniques in Multiple Sequence Alignment.
+## Exploring Reinforcement Learning techniques in Multiple Sequence Alignment.
