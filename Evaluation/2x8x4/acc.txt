@@ -1,0 +1,25 @@
+/home/ramchalamkr/.local/lib/python2.7/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+2018-08-01 17:42:49.120185: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-08-01 17:42:49.194815: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:892] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2018-08-01 17:42:49.195399: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1030] Found device 0 with properties: 
+name: GeForce 940M major: 5 minor: 0 memoryClockRate(GHz): 1.176
+pciBusID: 0000:01:00.0
+totalMemory: 3.95GiB freeMemory: 3.55GiB
+2018-08-01 17:42:49.195599: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce 940M, pci bus id: 0000:01:00.0, compute capability: 5.0)
+probability 0.95
+current step  10
+Average percentage 71.6
+[71.6]
+current step  20
+Average percentage 73.5
+[71.6, 73.5]
+current step  50
+Average percentage 79.1
+[71.6, 73.5, 79.10000000000001]
+current step  100
+Average percentage 82.4
+[71.6, 73.5, 79.10000000000001, 82.39999999999999]
+current step  200
+Average percentage 88.0
+[71.6, 73.5, 79.10000000000001, 82.39999999999999, 88.0]
