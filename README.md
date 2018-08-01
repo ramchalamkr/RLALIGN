@@ -9,9 +9,9 @@ Install the latest versions of tensorflow, keras, numpy, pandas, matplotlib.
 This program trains the agent to learn to optimally align the sequences. The number of sequences and the gameboard size and number of nucleotides needs to be updated in the program.
 To train the model, the Train_MSA.py needs to be executed. 
 
-'''
+```
 python Train_MSA.py
-'''
+```
 
 ### Evaluation
 The model is then evaluated on Needleman-Wunsch algorithm or the MAFFT(open source code needs to be installed. https://mafft.cbrc.jp/alignment/software/installation_without_root.html) algorithm.
