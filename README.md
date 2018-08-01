@@ -6,7 +6,7 @@ The model uses the state-of-the-art RL algorithm - Asynchronous Advantage Actor 
 Install the latest versions of tensorflow, keras, numpy, pandas, matplotlib.
 
 ### Training 
-This program trains the agent to learn to optimally align the sequences. The number of sequences and the gameboard size and number of nucleotides needs to be updated in the program.
+This program trains the agent to learn to optimally align the sequences. The number of sequences, the gameboard size and number of nucleotides needs to be updated in the program.
 To train the model, the Train_MSA.py needs to be executed. 
 
 ```
