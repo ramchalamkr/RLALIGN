@@ -33,3 +33,8 @@ python Test_MSA.py
 
 #### References
 http://web.mit.edu/pensieve/
+
+### Authors
+Ramchalam K R, McGill University, ramchalam.kinattinkararamakrishn@mail.mcgill.ca
+
+Jaspal Singh, McGill University, jaspal.singh2@mail.mcgill.ca
